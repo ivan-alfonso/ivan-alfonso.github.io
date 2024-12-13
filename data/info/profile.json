@@ -1,11 +1,11 @@
 {
-    "name": "Aaron Conrardy",
+    "name": "Iván Alfonso",
     "profilePictureUrl": "images/pictures/avatar.JPG",
 
     "locales": {
         "en": {
             "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "PhD Student in Computer Science"
+            "role": "R&T Scientist"
         },
 
         "es": {
@@ -27,18 +27,18 @@
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino, CA 01234",
+            "value": "Belval Esch-sur-Alzette, Luxembourg",
+            "valueShort": "Belval, Luxembourg",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
 
         "email": {
             "id": "email",
-            "value": "conrardy.aaron30@gmail.com",
-            "valueShort": "conrardy.aaron30@gmail.com",
+            "value": "ivan.alfonso@list.lu",
+            "valueShort": "ivan.alfonso@list.lu",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:conrardy.aaron30@gmail.com"
+            "href": "mailto:ivan.alfonso@list.lu"
         },
 
         "facebook": {
@@ -54,7 +54,7 @@
             "value": "@jonas.einstein.official",
             "valueShort": "@jonas.einstein.official",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/ivan-alfonso"
         },
 
         "instagram": {
@@ -70,7 +70,7 @@
             "value": "@jonas.einstein.official",
             "valueShort": "@jonas.einstein.official",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+            "href": "https://www.linkedin.com/in/iv%C3%A1n-alfonso/"
         },
 
         "phone": {
