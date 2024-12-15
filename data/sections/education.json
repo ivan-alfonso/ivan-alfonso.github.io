@@ -23,14 +23,14 @@
 
     "items": [
         {
-            "id": "online_course_udacity",
-            "place": "@link{places.udacity}",
-            "period": ["2014/01", "2014/07"],
+            "id": "bachelor_uptc",
+            "place": "@link{places.uptc}",
+            "period": ["2014/07"],
 
             "locales": {
                 "en": {
-                    "title": "UX Fundamentals Online Certification",
-                    "description": "Enrolled in an online program covering essential UX concepts, including user research, usability testing, and information architecture. Strengthened skills in creating intuitive and user-friendly digital experiences."
+                    "title": "Bachelor's in Electronic Engineering",
+                    "description": "My Bachelor's thesis was titled 'Development of a Multipurpose AGVF (Automatic Guided Vehicle Forklift) Platform.' This involved circuit design, software development, and prototyping of a Forklift robot."
                 },
 
                 "es": {
@@ -51,14 +51,14 @@
         },
 
         {
-            "id": "bachelor_harvard",
-            "place": "@link{places.harvard}",
-            "period": ["2014/08", "2018/05"],
+            "id": "master_uniandes",
+            "place": "@link{places.uniandes}",
+            "period": ["2018/08"],
 
             "locales": {
                 "en": {
-                    "title": "Bachelor's in Graphic Design with UX Emphasis",
-                    "description": "Graduated with a solid foundation in graphic design while specializing in user experience design. Acquired expertise in visual storytelling, UI design, and collaborative design thinking."
+                    "title": "Master's in Software Engineering",
+                    "description": "My Master's in Software Engineering at Uniandes focused on the lifetime optimization of WSNs. My Master's thesis was titled 'Wireless Sensor Networks for Gas Monitoring in Underground Coal Mining.'"
                 },
 
                 "es": {
@@ -79,14 +79,42 @@
         },
 
         {
-            "id": "masters_paris",
-            "place": "@link{places.paris}",
-            "period": ["2018/09", "2020/05"],
+            "id": "phd_uoc",
+            "place": "@link{places.uoc}",
+            "period": ["2023/02"],
 
             "locales": {
                 "en": {
-                    "title": "Master's in Human-Computer Interaction",
-                    "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies."
+                    "title": "PhD in Network and Information Technologies",
+                    "description": "My PhD at UOC was carried out in cotutelle (a joint supervision agreement) with Uniandes."
+                },
+
+                "es": {
+                    "title": "Maestría en Interacción Humano-Computadora",
+                    "description": "Completó un programa intensivo centrado en los principios de diseño centrado en el usuario, pruebas de usabilidad y diseño de interacción. Desarrolló habilidades en la creación de wireframes, prototipado y metodologías de investigación de usuarios."
+                },
+
+                "fr": {
+                    "title": "Master en Interaction Humain-Ordinateur",
+                    "description": "A achevé un programme intensif axé sur les principes de conception centrés sur l'utilisateur, les tests de convivialité et la conception d'interaction. Développé des compétences en wireframing, en prototypage et en méthodologies de recherche utilisateur."
+                },
+
+                "zh": {
+                    "title": "人机交互硕士学位",
+                    "description": "完成了一项专注于以用户为中心的设计原则、可用性测试和交互设计的密集课程。培养了线框图、原型制作和用户研究方法方面的技能。"
+                }
+            }
+        },
+
+        {
+            "id": "phd_uniandes",
+            "place": "@link{places.uniandes}",
+            "period": ["2023/03"],
+
+            "locales": {
+                "en": {
+                    "title": "PhD in Engineering",
+                    "description": "My PhD thesis was titled 'IoT@ run-time: a model-based approach to support deployment and self-adaptations in IoT systems.' This research, in the field of MDE, was applied in scenarios such as coal mining and wastewater treatment."
                 },
 
                 "es": {
