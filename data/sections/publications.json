@@ -1,8 +1,8 @@
 {
     "locales": {
         "en": {
-            "title": "<span class='text-primary'>Skill</span> Set",
-            "description": "Exploring the diverse range of skills I've acquired and developed:"
+            "title": "<span class='text-primary'>Scientific</span> Publications",
+            "description": "Take a look at my list of publications. If you're interested in any of them but can't access it, feel free to reach out to me, I’d be happy to send you a preprint version!"
         },
         "es": {
             "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
@@ -19,49 +19,14 @@
     },
 
     "subcategories": [
-        {
-            "id": "abilities",
-            "type": "grid",
-            "progress": null,
-            "faIcon": "fa-solid fa-square",
-            "locales": {
-                "en": {"title": null}
-            }
-        },
 
         {
-            "id": "programming",
-            "type": "grid",
-            "progress": "number",
-            "faIcon": "fa fa-code",
-            "locales": {
-                "en": {"title": "Programming"},
-                "es": {"title": "Programación"},
-                "fr": {"title": "Programmation"},
-                "zh": {"title": "编程"}
-            }
-        },
-
-        {
-            "id": "languages",
+            "id": "publication",
             "type": "list",
-            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
-            "faIcon": "fa fa-language",
-            "locales": {
-                "en": {"title": "Languages"},
-                "es": {"title": "Idiomas"},
-                "fr": {"title": "Langues"},
-                "zh": {"title": "语言"}
-            }
-        },
-
-        {
-            "id": "extra",
-            "type": "grid",
             "progress": null,
             "faIcon": "fa fa-marker",
             "locales": {
-                "en": {"title": "Bonus Skills"},
+                "en": {"title": ""},
                 "es": {"title": "Habilidades Adicionales"},
                 "fr": {"title": "Plus Habiletés"},
                 "zh": {"title": "附加技能"}
@@ -340,16 +305,13 @@
             }
         ],
 
-        "extra": [
+        "publication": [
             {
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "User Interface (UI) Design", "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."},
-                    "es": {"title": "Diseño de Interfaz de Usuario (UI)", "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."},
-                    "fr": {"title": "Design d'Interface Utilisateur (UI)", "description": "Capable de concevoir des interfaces utilisateur intuitives et visuellement attrayantes pour des interactions utilisateur fluides."},
-                    "zh": {"title": "用户界面（UI）设计", "description": "能够设计直观且视觉吸引力强的用户界面，以实现无缝用户交互。"}
+                    "en": {"title": "Modeling the obsolescence of models", "description": "Software and Systems Modeling Journal, 2024."}
                 }
             },
             {
@@ -357,10 +319,7 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Front-End Development", "description": "Able to code in VueJS, React JS, Swift, AngularJS and TypeScript."},
-                    "es": {"title": "Desarrollo Front-End", "description": "Capaz de codificar en VueJS, AngularJS y TypeScript."},
-                    "fr": {"title": "Développement Front-End", "description": "Capable de coder en VueJS, AngularJS et TypeScript."},
-                    "zh": {"title": "前端开发", "description": "能够编写VueJS、AngularJS和TypeScript代码。"}
+                    "en": {"title": "Towards Data Interoperability for the Digital Product Passport Ecosystem", "description": "Workshop Semantic Interoperability in Data Spaces, 2024."}
                 }
             },
             {
@@ -368,10 +327,7 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Information Visualization", "description": "Able to transform complex data into clear visuals."},
-                    "es": {"title": "Visualización de Información", "description": "Capaz de transformar datos complejos en visuales claros."},
-                    "fr": {"title": "Visualisation de l'Information", "description": "Capable de transformer des données complexes en visuels clairs."},
-                    "zh": {"title": "信息可视化", "description": "能够将复杂的数据转化为清晰的可视化图表。"}
+                    "en": {"title": "Low-Code Flutter Application Development Solution", "description": "International Workshop on Modeling in Low-Code Development Platforms, 2024."}
                 }
             },
             {
@@ -379,10 +335,7 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Accessibility and Inclusive Design", "description": "Able to create digital experiences that are accessible to all."},
-                    "es": {"title": "Accesibilidad y Diseño Inclusivo", "description": "Capaz de crear experiencias digitales accesibles para todos."},
-                    "fr": {"title": "Accessibilité et Design Inclusif", "description": "Capable de créer des expériences numériques accessibles à tous."},
-                    "zh": {"title": "可访问性和包容性设计", "description": "能够创建面向所有人的数字体验。"}
+                    "en": {"title": "Extending a Low-Code Tool with Multi-cloud Deployment Capabilities", "description": " European Conference on Software Architecture (ECSA 2024)."}
                 }
             },
             {
@@ -390,10 +343,7 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "User-Centric Data Analysis", "description": "Proficient in analyzing data with a focus on the needs and preferences of users, enabling data-driven decisions that align with user expectations."},
-                    "es": {"title": "Análisis de Datos Centrado en el Usuario", "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."},
-                    "fr": {"title": "Analyse de Données Axée sur l'Utilisateur", "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."},
-                    "zh": {"title": "以用户为中心的数据分析", "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"}
+                    "en": {"title": "A model-based infrastructure for the specification and runtime execution of self-adaptive IoT architectures", "description": "Computing Journal, 2023."}
                 }
             },
             {
@@ -401,10 +351,63 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Mobile App User Experience", "description": "Skilled in crafting user-centered experiences within mobile applications, ensuring smooth and intuitive interactions."},
-                    "es": {"title": "Experiencia de Usuario en Aplicaciones Móviles", "description": "Experto en crear experiencias centradas en el usuario en aplicaciones móviles, garantizando interacciones fluidas e intuitivas."},
-                    "fr": {"title": "Expérience Utilisateur d'Applications Mobiles", "description": "Compétent dans la création d'expériences centrées sur l'utilisateur au sein des applications mobiles, garantissant des interactions fluides et intuitives."},
-                    "zh": {"title": "移动应用用户体验", "description": "擅长在移动应用中打造以用户为中心的体验，确保流畅而直观的交互。"}
+                    "en": {"title": "A model-based framework for IoT systems in wastewater treatment plants", "description": "Journal of Object Technology, 2023."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Modelado de Sistemas IoT para la Industria en Minerıa Subterránea de Carbón", "description": "Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2022)."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "TRANSACT: Towards safe and secure distributed cyber-physical systems", "description": "Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2022)."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Self-adaptive architectures in IoT systems: a systematic literature review", "description": "Journal of Internet Services and Applications, 2021."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Modeling self-adaptative IoT architectures", "description": "System Analysis and Modelling (SAM 2021)."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "A Software Deployment and Self-adaptation of IoT Systems", "description": "Iberoamerican Conference on Software Engineering (CIbSE 2020)."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Continuous delivery of software on iot devices", "description": "International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C 2019)."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Lifetime optimization of Wireless Sensor Networks for gas monitoring in underground coal mining", "description": "International Conference on Computers Communications and Control (ICCCC 2018)."}
                 }
             }
         ]
