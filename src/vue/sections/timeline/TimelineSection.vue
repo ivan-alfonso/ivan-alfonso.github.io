@@ -84,14 +84,32 @@ const orderedItems = computed(() => {
  * @private
  */
 const _formatItemDate = (item) => {
-    const period = item['period']
-    const from = utils.localizeDate(period[0], language.getSelectedLanguage()['id'])
-    const to = utils.localizeDate(period[1], language.getSelectedLanguage()['id'])
+    const period = item['period'];
+    const languageId = language.getSelectedLanguage()['id'];
 
+    // Verificar la longitud de la lista 'period'
+    if (period.length === 2) {
+        const from = utils.localizeDate(period[0], languageId);
+        const to = utils.localizeDate(period[1], languageId);
+
+        return [{
+            faIcon: 'fa fa-calendar-check',
+            label: from + ' <span class="me-1 ms-1">➔</span> ' + to
+        }];
+    } else if (period.length === 1) {
+        const to = utils.localizeDate(period[0], languageId);
+
+        return [{
+            faIcon: 'fa fa-calendar-check',
+            label: to
+        }];
+    }
+
+    // Caso de seguridad: si no hay elementos en 'period'
     return [{
         faIcon: 'fa fa-calendar-check',
-        label: from + ' <span class="me-1 ms-1">➔</span> ' + to
-    }]
+        label: 'N/A' // Opcional: manejar la falta de datos
+    }];
 }
 </script>
 

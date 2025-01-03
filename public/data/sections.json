@@ -40,11 +40,11 @@
         },
 
         {
-            "id": "skills",
+            "id": "publications",
             "categoryId": "showcase",
             "component": "InfoSection",
-            "jsonPath": "data/sections/skills.json",
-            "faIcon": "fa-solid fa-tools"
+            "jsonPath": "data/sections/publications.json",
+            "faIcon": "fas fa-book"
         },
 
         {
@@ -69,14 +69,6 @@
             "component": "ThreadsSection",
             "jsonPath": "data/sections/achievements.json",
             "faIcon": "fa-solid fa-award"
-        },
-
-        {
-            "id": "hobbies",
-            "categoryId": "more",
-            "component": "InfoSection",
-            "jsonPath": "data/sections/hobbies.json",
-            "faIcon": "fa-solid fa-heart"
         },
 
         {

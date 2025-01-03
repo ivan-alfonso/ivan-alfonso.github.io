@@ -65,7 +65,31 @@
         "logoUrl": "images/places/logo-udacity.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Udacity"}
+            "en": {"name": "Pedagogical and Technological University of Colombia"}
+        }
+    },
+
+    "uptc": {
+        "logoUrl": "images/places/logo-uptc.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Universidad Pedagógica y Tecnológica de Colombia"}
+        }
+    },
+
+    "uniandes": {
+        "logoUrl": "images/places/logo-uniandes.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Universidad de los Andes"}
+        }
+    },
+
+    "uoc": {
+        "logoUrl": "images/places/logo-uoc.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Open University of Catalonia"}
         }
     },
 

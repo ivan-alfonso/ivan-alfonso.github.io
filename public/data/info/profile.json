@@ -28,7 +28,7 @@
         "address": {
             "id": "address",
             "value": "Belval Esch-sur-Alzette, Luxembourg",
-            "valueShort": "Belval, Luxembourg",
+            "valueShort": "Luxembourg",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
@@ -51,8 +51,8 @@
 
         "github": {
             "id": "github",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "@ivan-alfonso",
+            "valueShort": "@ivan-alfonso",
             "faIcon": "fa-brands fa-github",
             "href": "https://github.com/ivan-alfonso"
         },
@@ -67,10 +67,26 @@
 
         "linkedin": {
             "id": "linkedin",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "@ivan.alfonso",
+            "valueShort": "@ivan.alfonso",
             "faIcon": "fa-brands fa-linkedin",
             "href": "https://www.linkedin.com/in/iv%C3%A1n-alfonso/"
+        },
+
+        "g_scholar": {
+            "id": "Google Scholar",
+            "value": "@ivan.alfonso",
+            "valueShort": "@ivan.alfonso",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "href": "https://scholar.google.com/citations?user=qJ95Z8kAAAAJ&hl=en"
+        },
+
+        "dblp": {
+            "id": "DBLP",
+            "value": "@ivan.alfonso",
+            "valueShort": "@ivan.alfonso",
+            "faIcon": "fa-solid fa-circle-nodes",
+            "href": "https://dblp.uni-trier.de/pid/253/6310.html"
         },
 
         "phone": {
