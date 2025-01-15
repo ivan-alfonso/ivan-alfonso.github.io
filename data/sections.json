@@ -56,10 +56,10 @@
         },
 
         {
-            "id": "portfolio",
+            "id": "projects",
             "categoryId": "showcase",
             "component": "GallerySection",
-            "jsonPath": "data/sections/portfolio.json",
+            "jsonPath": "data/sections/projects.json",
             "faIcon": "fa-solid fa-folder-open"
         },
 

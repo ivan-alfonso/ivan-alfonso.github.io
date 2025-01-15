@@ -93,6 +93,14 @@
         }
     },
 
+    "list": {
+        "logoUrl": "images/places/logo-list.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Luxembourg Institute of Science and Technology"}
+        }
+    },
+
     "uxStudio": {
         "logoUrl": "images/places/logo-ux-studio.png",
         "faIcon": "fas fa-paint-brush",
