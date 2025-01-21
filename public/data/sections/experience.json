@@ -24,13 +24,13 @@
     "items": [
         {
             "id": "experience_item_1",
-            "place": "@link{places.uxStudio}",
-            "period": ["2015/01", "2017/12"],
+            "place": "@link{places.uniandes}",
+            "period": ["2018/02", "2018/07"],
             "locales": {
                 "en": {
-                    "title": "UX Designer",
-                    "description": "Contributed to designing intuitive and user-friendly web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs.",
-                    "tags": ["Figma", "Wireframing", "Prototyping", "Responsive Design", "User Research"]
+                    "title": "Researcher",
+                    "description": "Researcher in the HiLeS project to create product lines of embedded systems.",
+                    "tags": ["HiLeS", "Embedded Systems", "PL"]
                 },
                 "es": {
                     "title": "Diseñador de UX",
@@ -52,13 +52,13 @@
 
         {
             "id": "experience_item_2",
-            "place": "@link{places.adobe}",
-            "period": ["2018/01", "2020/08"],
+            "place": "@link{places.uniandes}",
+            "period": ["2018/08", "2022/12"],
             "locales": {
                 "en": {
-                    "title": "Senior UI/UX Designer",
-                    "description": "Led design projects, conducted comprehensive user research, and utilized data-driven insights to enhance user experiences. Managed design teams, fostering creativity and innovation while implementing design best practices to deliver successful outcomes for various digital products.",
-                    "tags": ["Figma", "Adobe XD", "Sketch", "Data-Driven Design"]
+                    "title": "Doctoral Teaching Assistant",
+                    "description": "Undergraduate Course Professor - ISIS2503 software architecture and design laboratory.",
+                    "tags": ["Software Architecture", "Scum", "AWS"]
                 },
                 "es": {
                     "title": "Designer Senior UI/UX",
@@ -80,13 +80,13 @@
 
         {
             "id": "experience_item_3",
-            "place": "@link{places.apple}",
-            "period": ["2020/09", "2022/09"],
+            "place": "@link{places.uoc}",
+            "period": ["2021/11", "2023/09"],
             "locales": {
                 "en": {
-                    "title": "Lead UX Designer",
+                    "title": "Researcher",
                     "description": "Drove UX initiatives by overseeing a team of designers, crafting design strategies, and spearheading cross-functional collaborations with product managers, engineers, and executives. Focused on creating user-centric designs that aligned with business objectives and resulted in enhanced user satisfaction.",
-                    "tags": ["Sketch", "Adobe XD", "InVision", "Design Strategy", "Cross-Functional Collaboration"]
+                    "tags": ["MDE", "MPS", "Domain Specific Language", "Internet of Things", "Code Generation"]
                 },
                 "es": {
                     "title": "Designer UX Principal",
@@ -108,13 +108,13 @@
 
         {
             "id": "experience_item_4",
-            "place": "@link{places.coursera}",
-            "period": ["2022/10", "now"],
+            "place": "@link{places.list}",
+            "period": ["2023/10", "now"],
             "locales": {
                 "en": {
-                    "title": "UX Design Full-Time Professor",
+                    "title": "R&T Scientist",
                     "description": "Leveraged my expertise in UX design to educate and inspire students in the art of user-centered design principles. Conducted user studies, analyzed data, and guided students in applying theoretical knowledge to practical projects, empowering the next generation of UX designers.",
-                    "tags": ["Adobe XD", "Sketch", "Axure", "Educational Mentorship"]
+                    "tags": ["Low-code", "Python", "MDE", "Domain Specific Language", "Code Generation"]
                 },
                 "es": {
                     "title": "Profesor de Tiempo Completo en UX Design",

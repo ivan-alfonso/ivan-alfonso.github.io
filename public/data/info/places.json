@@ -71,7 +71,7 @@
 
     "uptc": {
         "logoUrl": "images/places/logo-uptc.png",
-        "faIcon": "fa fa-house-laptop",
+        "faIcon": "fa-solid fa-building-columns",
         "locales": {
             "en": {"name": "Universidad Pedagógica y Tecnológica de Colombia"}
         }
@@ -79,7 +79,7 @@
 
     "uniandes": {
         "logoUrl": "images/places/logo-uniandes.png",
-        "faIcon": "fa fa-house-laptop",
+        "faIcon": "fa-solid fa-building-columns",
         "locales": {
             "en": {"name": "Universidad de los Andes"}
         }
@@ -87,9 +87,17 @@
 
     "uoc": {
         "logoUrl": "images/places/logo-uoc.png",
-        "faIcon": "fa fa-house-laptop",
+        "faIcon": "fa-solid fa-building-columns",
         "locales": {
             "en": {"name": "Open University of Catalonia"}
+        }
+    },
+
+    "list": {
+        "logoUrl": "images/places/logo-list.png",
+        "faIcon": "fa-solid fa-buildings",
+        "locales": {
+            "en": {"name": "Luxembourg Institute of Science and Technology"}
         }
     },
 
@@ -98,6 +106,46 @@
         "faIcon": "fas fa-paint-brush",
         "locales": {
             "en": {"name": "UX Masters Studio"}
+        }
+    },
+
+    "jisbd": {
+        "logoUrl": "images/places/logo-ux-studio.png",
+        "faIcon": "fa-solid fa-person-chalkboard",
+        "locales": {
+            "en": {"name": "Jornadas de Ingeniería del Software y Bases de Datos (JISBD)"}
+        }
+    },
+
+    "ecsa": {
+        "logoUrl": "images/places/logo-ux-studio.png",
+        "faIcon": "fa-solid fa-person-chalkboard",
+        "locales": {
+            "en": {"name": "European Conference on Software Architecture (ECSA)"}
+        }
+    },
+
+    "agilemde": {
+        "logoUrl": "images/places/logo-ux-studio.png",
+        "faIcon": "fa-solid fa-person-chalkboard",
+        "locales": {
+            "en": {"name": "Workshop on Agile MDE"}
+        }
+    },
+
+    "mdenet": {
+        "logoUrl": "images/places/logo-ux-studio.png",
+        "faIcon": "fa-solid fa-person-chalkboard",
+        "locales": {
+            "en": {"name": "MDENetwork"}
+        }
+    },
+
+    "scipy": {
+        "logoUrl": "images/places/logo-ux-studio.png",
+        "faIcon": "fa-solid fa-person-chalkboard",
+        "locales": {
+            "en": {"name": "Latin American Conference on Scientific Python (SciPy)"}
         }
     }
 }

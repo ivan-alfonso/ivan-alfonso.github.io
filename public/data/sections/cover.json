@@ -3,7 +3,7 @@
         "en": {
             "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
             "welcomeShort": "Welcome!",
-            "bio": "This page is a work in progress."
+            "bio": "I have devoted my entire professional career and studies to the fascinating field of research. I am a Research & Technology Scientist in the Software Engineering RDI Unit at the Luxembourg Institute of Science and Technology (LIST). I earned my PhD in 2022 through a collaborative program between Universidad de los Andes and Universitat Oberta de Catalunya. My research focuses on the dynamic field of software engineering, with specific interests in Model-Driven Engineering (MDE), model transformations, code generation, low-code platforms, self-adaptive systems, and the Internet of Things. I am open to collaborations, talks, and and contributing to projects in any of these topics."
         },
 
         "es": {

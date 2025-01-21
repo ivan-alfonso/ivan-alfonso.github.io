@@ -2,7 +2,7 @@
     "locales": {
         "en": {
             "title": "Career <span class='text-primary'>Achievements</span>",
-            "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:"
+            "description": "An overview of my awards and some of the talks I have given in the research community."
         },
 
         "es": {
@@ -34,10 +34,10 @@
         },
 
         {
-            "id": "certifications",
-            "faIcon": "fa-solid fa-award",
+            "id": "talks",
+            "faIcon": "fa-solid fa-person-chalkboard",
             "locales": {
-                "en": {"title": "Certifications", "buttonLabel": "View Certification"},
+                "en": {"title": "Talks", "buttonLabel": "View Certification"},
                 "es": {"title": "Certificaciones", "buttonLabel": "Ver Certificación"},
                 "fr": {"title": "Certifications", "buttonLabel": "Voir la Certification"},
                 "zh": {"title": "获得的证书", "buttonLabel": "查看证书"}
@@ -48,14 +48,14 @@
     "items": {
         "awards": [
             {
-                "id": "graduation_project",
-                "place": "@link{places.harvard}",
-                "date": "2018/08",
+                "id": "thesis_bachelor",
+                "place": "@link{places.uptc}",
+                "date": "2014/09",
                 "href": null,
                 "locales": {
                     "en": {
-                        "title": "Best Graduation Project",
-                        "description": "Outstanding work on graduation project; recognized for innovation and impact."
+                        "title": "Thesis Awarded with Honors",
+                        "description": "Undergraduate Thesis recognized as a laureate in the Electronic Engineering program."
                     },
 
                     "es": {
@@ -76,14 +76,14 @@
             },
 
             {
-                "id": "alumni_hackaton",
-                "place": "@link{places.harvard}",
-                "date": "2019/09",
-                "href": "https://harvard.com",
+                "id": "jisbd_prize",
+                "place": "@link{places.jisbd}",
+                "date": "2022/09",
+                "href": null,
                 "locales": {
                     "en": {
-                        "title": "2nd Place – Alumni UX Hackathon",
-                        "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving."
+                        "title": "Award for Student-Led Doctoral Work",
+                        "description": "Granted for the contributions in MDE applied to IoT systems at the JISBD'22 conference"
                     },
 
                     "es": {
@@ -104,14 +104,14 @@
             },
 
             {
-                "id": "adobe_jam",
-                "place": "@link{places.adobe}",
-                "date": "2020/11",
+                "id": "ecsa_prize",
+                "place": "@link{places.ecsa}",
+                "date": "2024/09",
                 "href": null,
                 "locales": {
                     "en": {
-                        "title": "1st Place – Adobe Creative Jam",
-                        "description": "Achieved 1st place in Adobe Creative Jam; showcased design excellence and collaboration."
+                        "title": "Tools and Demos Paper Award",
+                        "description": "Award for the tool demo paper titled Extending a Low-Code Tool with Multi-cloud Deployment Capabilities."
                     },
 
                     "es": {
@@ -129,47 +129,19 @@
                         "description": "在Adobe创意盛宴中获得第一名；展示了卓越的设计和合作。"
                     }
                 }
-            },
-
-            {
-                "id": "article_mention",
-                "place": "@link{places.forbes}",
-                "date": "2023/03",
-                "href": "https://forbes.com",
-                "locales": {
-                    "en": {
-                        "title": "Article Mention – UX Contribution",
-                        "description": "Featured in Forbes for outstanding UX contributions; impactful designs and insights."
-                    },
-
-                    "es": {
-                        "title": "Mención en Artículo - Contribución a UX",
-                        "description": "Destacado en Forbes por sobresalientes contribuciones a UX; diseños e ideas impactantes."
-                    },
-
-                    "fr": {
-                        "title": "Mention d'Article - Contribution UX",
-                        "description": "Mis en avant dans Forbes pour d'excellentes contributions UX ; designs et idées impactantes."
-                    },
-
-                    "zh": {
-                        "title": "文章提及 - 用户体验贡献",
-                        "description": "在福布斯杂志上因出色的用户体验贡献而受到关注；设计和见解产生了影响。"
-                    }
-                }
             }
         ],
 
-        "certifications": [
+        "talks": [
             {
-                "id": "google_cert",
-                "place": "@link{places.google}",
-                "date": "2018/08",
-                "href": "https://google.com",
+                "id": "scipy_talk",
+                "place": "@link{places.scipy}",
+                "date": "2019/10",
+                "href": "https://pyvideo.org/scipy-latin-america-2019/optimization-based-design-of-wireless-sensor-networks-for-gas-monitoring-systems-in-underground-mines.html",
                 "locales": {
                     "en": {
-                        "title": "Google UX Design Certification",
-                        "description": "Certified by Google in UX design; demonstrated expertise in user-centered design."
+                        "title": "Talk at the SciPy 2019",
+                        "description": "Optimization based design of wireless sensor networks for gas monitoring systems in underground mines."
                     },
 
                     "es": {
@@ -190,14 +162,14 @@
             },
 
             {
-                "id": "ui_nanodegree",
-                "place": "@link{places.udacity}",
-                "date": "2019/04",
-                "href": "https://udemy.com",
+                "id": "mde_net_talk",
+                "place": "@link{places.mdenet}",
+                "date": "2023/04",
+                "href": "https://www.youtube.com/watch?v=U90hQC2_dUI",
                 "locales": {
                     "en": {
-                        "title": "UI/UX Nanodegree",
-                        "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills."
+                        "title": "Talk at the MDENet Annual Symposium",
+                        "description": "BEtter Smart Software fastER (BESSER): an open source low-modeling low-code platform"
                     },
 
                     "es": {
@@ -218,14 +190,14 @@
             },
 
             {
-                "id": "material_cert",
-                "place": "@link{places.google}",
-                "date": "2020/06",
-                "href": "https://google.com",
+                "id": "agilemde_talk",
+                "place": "@link{places.agilemde}",
+                "date": "2024/07",
+                "href": null,
                 "locales": {
                     "en": {
-                        "title": "Material Design Certification",
-                        "description": "Earned Material Design certification; demonstrated proficiency in modern design principles."
+                        "title": "AgileMDE Keynote",
+                        "description": "Low-Code and Low-Modeling Strategies for Agile MDE Processes."
                     },
 
                     "es": {
