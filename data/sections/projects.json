@@ -38,7 +38,7 @@
                 "logoUrl": "images/portfolio/besser.png",
                 "links": [
                     {"faIcon": "fa-brands fa-github", "href": "https://github.com/BESSER-PEARL/BESSER", "id": "GitHub"},
-                    {"faIcon": "fa-brands fa-file-alt", "href": "https://besser.readthedocs.io/en/latest/index.html", "id": "ReadTheDocs"}
+                    {"faIcon": "fa fa-book", "href": "https://besser.readthedocs.io/en/latest/index.html", "id": "ReadTheDocs"}
                 ],
                 "locales": {
                     "en": {
@@ -65,8 +65,8 @@
                 "title": "TRANSACT",
                 "logoUrl": "images/portfolio/project-logo-6.png",
                 "links": [
-                    {"faIcon": "fa-brands fa-apple", "href": "https://apple.com", "id": "App Store"},
-                    {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com", "id": "Google Play"}
+                    {"faIcon": "fa fa-globe", "href": "https://transact-ecsel.eu/", "id": "Web"},
+                    {"faIcon": "fa-brands fa-linkedin", "href": "https://www.linkedin.com/company/transact-project/", "id": "Linkedin"}
                 ],
                 "locales": {
                     "en": {
