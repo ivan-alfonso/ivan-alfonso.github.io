@@ -37,7 +37,7 @@
             "id": "talks",
             "faIcon": "fa-solid fa-person-chalkboard",
             "locales": {
-                "en": {"title": "Talks", "buttonLabel": "View Certification"},
+                "en": {"title": "Talks", "buttonLabel": "Video Presentation"},
                 "es": {"title": "Certificaciones", "buttonLabel": "Ver Certificación"},
                 "fr": {"title": "Certifications", "buttonLabel": "Voir la Certification"},
                 "zh": {"title": "获得的证书", "buttonLabel": "查看证书"}

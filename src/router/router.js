@@ -14,9 +14,6 @@ export function createAppRouter() {
     /** Create Home **/
     const routeList = [{
         path:"/",
-        redirect:"/dist"
-    },{
-        path: '/dist',
         name: homeSection['id'],
         component: RouterView,
     }]
