@@ -311,7 +311,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Modeling the obsolescence of models", "description": "Software and Systems Modeling Journal, 2024."}
+                    "en": {
+                        "title": "Modeling the obsolescence of models",
+                        "url": "https://doi.org/10.1007/s10270-024-01236-3",
+                        "description": "Software and Systems Modeling Journal, 2024."
+                    }
                 }
             },
             {
@@ -319,7 +323,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Towards Data Interoperability for the Digital Product Passport Ecosystem", "description": "Workshop Semantic Interoperability in Data Spaces, 2024."}
+                    "en": {
+                        "title": "Towards Data Interoperability for the Digital Product Passport Ecosystem",
+                        "url": "https://modeling-languages.com/digital-product-passport-data/",
+                        "description": "Workshop Semantic Interoperability in Data Spaces, 2024."
+                    }
                 }
             },
             {
@@ -327,7 +335,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Low-Code Flutter Application Development Solution", "description": "International Workshop on Modeling in Low-Code Development Platforms, 2024."}
+                    "en": {
+                        "title": "Low-Code Flutter Application Development Solution",
+                        "url": "https://doi.org/10.1145/3652620.3688330",
+                        "description": "International Workshop on Modeling in Low-Code Development Platforms, 2024."
+                    }
                 }
             },
             {
@@ -335,7 +347,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Extending a Low-Code Tool with Multi-cloud Deployment Capabilities", "description": " European Conference on Software Architecture (ECSA 2024)."}
+                    "en": {
+                        "title": "Extending a Low-Code Tool with Multi-cloud Deployment Capabilities",
+                        "url": "https://doi.org/10.1007/978-3-031-71246-3_5",
+                        "description": " European Conference on Software Architecture (ECSA 2024)."
+                    }
                 }
             },
             {
@@ -343,7 +359,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "A model-based infrastructure for the specification and runtime execution of self-adaptive IoT architectures", "description": "Computing Journal, 2023."}
+                    "en": {
+                        "title": "A model-based infrastructure for the specification and runtime execution of self-adaptive IoT architectures",
+                        "url": "https://doi.org/10.1007/s00607-022-01145-7",
+                        "description": "Computing Journal, 2023."
+                    }
                 }
             },
             {
@@ -351,7 +371,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "A model-based framework for IoT systems in wastewater treatment plants", "description": "Journal of Object Technology, 2023."}
+                    "en": {
+                        "title": "A model-based framework for IoT systems in wastewater treatment plants",
+                        "url": "https://doi.org/10.5381/jot.2023.22.2.a10",
+                        "description": "Journal of Object Technology, 2023."
+                    }
                 }
             },
             {
@@ -359,7 +383,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Modelado de Sistemas IoT para la Industria en Minerıa Subterránea de Carbón", "description": "Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2022)."}
+                    "en": {
+                        "title": "Modelado de Sistemas IoT para la Industria en Minerıa Subterránea de Carbón",
+                        "url": "https://hdl.handle.net/11705/JISBD/2022/8557",
+                        "description": "Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2022)."
+                    }
                 }
             },
             {
@@ -367,7 +395,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "TRANSACT: Towards safe and secure distributed cyber-physical systems", "description": "Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2022)."}
+                    "en": {
+                        "title": "TRANSACT: Towards safe and secure distributed cyber-physical systems",
+                        "url": "https://hdl.handle.net/11705/JISBD/2022/5735",
+                        "description": "Jornadas de Ingeniería del Software y Bases de Datos (JISBD 2022)."
+                    }
                 }
             },
             {
@@ -375,7 +407,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Self-adaptive architectures in IoT systems: a systematic literature review", "description": "Journal of Internet Services and Applications, 2021."}
+                    "en": {
+                        "title": "Self-adaptive architectures in IoT systems: a systematic literature review",
+                        "url": "https://doi.org/10.1186/s13174-021-00145-8",
+                        "description": "Journal of Internet Services and Applications, 2021."
+                    }
                 }
             },
             {
@@ -383,7 +419,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Modeling self-adaptative IoT architectures", "description": "System Analysis and Modelling (SAM 2021)."}
+                    "en": {
+                        "title": "Modeling self-adaptative IoT architectures",
+                        "url": "https://doi.org/10.1109/MODELS-C53483.2021.00122",
+                        "description": "System Analysis and Modelling (SAM 2021)."
+                    }
                 }
             },
             {
@@ -391,7 +431,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "A Software Deployment and Self-adaptation of IoT Systems", "description": "Iberoamerican Conference on Software Engineering (CIbSE 2020)."}
+                    "en": {
+                        "title": "A Software Deployment and Self-adaptation of IoT Systems",
+                        "url": "https://cibse2020.ppgia.pucpr.br/images/artigos/17/S17_P2.pdf",
+                        "description": "Iberoamerican Conference on Software Engineering (CIbSE 2020)."
+                    }
                 }
             },
             {
@@ -399,7 +443,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Continuous delivery of software on iot devices", "description": "International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C 2019)."}
+                    "en": {
+                        "title": "Continuous delivery of software on iot devices",
+                        "url": "https://doi.org/10.1109/MODELS-C.2019.00112",
+                        "description": "International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C 2019)."
+                    }
                 }
             },
             {
@@ -407,7 +455,11 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "en": {"title": "Lifetime optimization of Wireless Sensor Networks for gas monitoring in underground coal mining", "description": "International Conference on Computers Communications and Control (ICCCC 2018)."}
+                    "en": {
+                        "title": "Lifetime optimization of Wireless Sensor Networks for gas monitoring in underground coal mining",
+                        "url": "https://doi.org/10.1109/ICCCC.2018.8390462",
+                        "description": "International Conference on Computers Communications and Control (ICCCC 2018)."
+                    }
                 }
             }
         ]

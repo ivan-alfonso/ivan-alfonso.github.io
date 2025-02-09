@@ -20,9 +20,9 @@
 
     "subcategories": [
         {
-            "id": "productivity",
+            "id": "research",
             "locales": {
-                "en": {"title": "Productivity"},
+                "en": {"title": "Research"},
                 "es": {"title": "Productividad"},
                 "fr": {"title": "Productivité"},
                 "zh": {"title": "生产力"}
@@ -31,7 +31,7 @@
     ],
 
     "items": {
-        "productivity": [
+        "research": [
             {
                 "id": "besser",
                 "title": "BESSER",
@@ -43,7 +43,7 @@
                 "locales": {
                     "en": {
                         "description": "<b>BESSER</b> is an open source low-code platform built on top of our Python-based personal interpretation of a “Universal Modeling Language” (yes, heavily inspired and a simplified version of the better known UML, the Unified Modeling Language).",
-                        "tags": ["low-code", "MDE", "code generation", "no-code"]
+                        "tags": ["low-code", "MDE", "code generation", "no-code", "research"]
                     },
                     "es": {
                         "description": "<b>BrainPulse</b> es tu aplicación definitiva de productividad, que te ayuda a gestionar tareas, organizar tu horario y aumentar tu concentración. Con su interfaz elegante y moderna, BrainPulse ofrece funciones como listas de tareas, recordatorios, seguimiento de objetivos y métricas de productividad personalizables. Ya seas un estudiante, un profesional o cualquier persona que busque optimizar su tiempo y eficiencia, BrainPulse es tu aplicación indispensable para lograr más sin sacrificar el equilibrio entre el trabajo y la vida personal.",
@@ -63,7 +63,7 @@
             {
                 "id": "transact",
                 "title": "TRANSACT",
-                "logoUrl": "images/portfolio/project-logo-6.png",
+                "logoUrl": "images/portfolio/transact.png",
                 "links": [
                     {"faIcon": "fa fa-globe", "href": "https://transact-ecsel.eu/", "id": "Web"},
                     {"faIcon": "fa-brands fa-linkedin", "href": "https://www.linkedin.com/company/transact-project/", "id": "Linkedin"}
@@ -71,7 +71,7 @@
                 "locales": {
                     "en": {
                         "description": "The overarching goal of the <b>TRANSACT</b> project is to develop a universal, distributed solution architecture for the transformation of safety-critical cyber-physical systems, from localised standalone systems into safe and secure distributed solutions leveraging edge and cloud computing.",
-                        "tags": ["app", "organization", "notes", "productivity"]
+                        "tags": ["CPS", "MDE", "IoT", "research"]
                     },
                     "es": {
                         "description": "<b>Stackers</b> es tu aplicación todo en uno para la organización y la toma de notas, diseñada para optimizar tu vida digital. Con su integración perfecta de gestión de tareas, organización de notas y almacenamiento en la nube, Stackers te ayuda a mantener la organización y la productividad. Crea listas de tareas, apunta ideas y sincroniza tus notas en todos tus dispositivos sin esfuerzo. Ya seas estudiante, profesional o cualquier persona que busque un espacio de trabajo digital sin desorden, Stackers está aquí para elevar tu juego organizativo.",
