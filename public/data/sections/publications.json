@@ -310,11 +310,13 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "conference",
+                "year": 2025,
                 "locales": {
                     "en": {
-                        "title": "Modeling the obsolescence of models",
-                        "url": "https://doi.org/10.1007/s10270-024-01236-3",
-                        "description": "Software and Systems Modeling Journal, 2024."
+                        "title": "Towards the Interoperability of Low-Code Platforms",
+                        "url": "https://doi.org/10.1007/978-3-031-94590-8_1",
+                        "description": "International Conference on Advanced Information Systems Engineering. CAiSE, 2025"
                     }
                 }
             },
@@ -322,6 +324,50 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "conference",
+                "year": 2025,
+                "locales": {
+                    "en": {
+                        "title": "Modelling Neural Network Models",
+                        "url": "https://doi.org/10.1007/978-3-031-92471-2_10",
+                        "description": "Research Challenges in Information Science. RCIS, 2025."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "type": "journal",
+                "year": 2025,
+                "locales": {
+                    "en": {
+                        "title": "Modeling the obsolescence of models",
+                        "url": "https://doi.org/10.1007/s10270-024-01236-3",
+                        "description": "Software and Systems Modeling Journal, 2025."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "type": "conference",
+                "year": 2024,
+                "locales": {
+                    "en": {
+                        "title": "Building besser: an open-source low-code platform",
+                        "url": "https://doi.org/10.1007/978-3-031-61007-3_16",
+                        "description": "Exploring Modeling Methods for Systems Analysis and Development Conference, 2024."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "type": "workshop",
+                "year": 2024,
                 "locales": {
                     "en": {
                         "title": "Towards Data Interoperability for the Digital Product Passport Ecosystem",
@@ -334,6 +380,8 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "workshop",
+                "year": 2024,
                 "locales": {
                     "en": {
                         "title": "Low-Code Flutter Application Development Solution",
@@ -346,6 +394,8 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "conference",
+                "year": 2024,
                 "locales": {
                     "en": {
                         "title": "Extending a Low-Code Tool with Multi-cloud Deployment Capabilities",
@@ -358,6 +408,8 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "journal",
+                "year": 2023,
                 "locales": {
                     "en": {
                         "title": "A model-based infrastructure for the specification and runtime execution of self-adaptive IoT architectures",
@@ -370,11 +422,13 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "conference",
+                "year": 2023,
                 "locales": {
                     "en": {
                         "title": "A model-based framework for IoT systems in wastewater treatment plants",
                         "url": "https://doi.org/10.5381/jot.2023.22.2.a10",
-                        "description": "Journal of Object Technology, 2023."
+                        "description": "European Conference on Modelling Foundations and Applications (ECMFA), 2023."
                     }
                 }
             },
@@ -382,6 +436,8 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "conference",
+                "year": 2022,
                 "locales": {
                     "en": {
                         "title": "Modelado de Sistemas IoT para la Industria en Minerıa Subterránea de Carbón",
@@ -394,6 +450,8 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "conference",
+                "year": 2022,
                 "locales": {
                     "en": {
                         "title": "TRANSACT: Towards safe and secure distributed cyber-physical systems",
@@ -406,6 +464,8 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "journal",
+                "year": 2021,
                 "locales": {
                     "en": {
                         "title": "Self-adaptive architectures in IoT systems: a systematic literature review",
@@ -418,6 +478,8 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "conference",
+                "year": 2021,
                 "locales": {
                     "en": {
                         "title": "Modeling self-adaptative IoT architectures",
@@ -430,6 +492,8 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "conference",
+                "year": 2020,
                 "locales": {
                     "en": {
                         "title": "A Software Deployment and Self-adaptation of IoT Systems",
@@ -442,6 +506,8 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "conference",
+                "year": 2019,
                 "locales": {
                     "en": {
                         "title": "Continuous delivery of software on iot devices",
@@ -454,6 +520,8 @@
                 "imageIconUrl": null,
                 "faIcon": null,
                 "value": null,
+                "type": "conference",
+                "year": 2018,
                 "locales": {
                     "en": {
                         "title": "Lifetime optimization of Wireless Sensor Networks for gas monitoring in underground coal mining",
